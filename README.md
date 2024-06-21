@@ -1,7 +1,7 @@
 # university-portal
 
 ## Database Schema
-Students(**idnr**, name, login, program)  
+Students(<u>idnr</u>, name, login, program)  
 UNIQUE (login)  
 
 Branches(**name**, **program**)  
