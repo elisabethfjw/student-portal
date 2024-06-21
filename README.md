@@ -1,1 +1,1 @@
-# student-portal
+# university-portal
